@@ -1,4 +1,4 @@
-﻿package vidasalud.ms_vidasalud_audit.dto;
+package vidasalud.ms_vidasalud_audit.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
